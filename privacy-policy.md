@@ -3,7 +3,7 @@
 Last updated: January 10, 2025
 
 ## Introduction
-This privacy policy explains how Hawgood Tech ("we", "us", or "our") collects, uses, and protects your information when you use our Content Assistant Pro application ("the App").
+This privacy policy explains how DH Digital Solutions ("we", "us", or "our") collects, uses, and protects your information when you use our Content Assistant Pro application ("the App").
 
 ## Information We Collect
 
