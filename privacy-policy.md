@@ -60,7 +60,7 @@ We may update this policy periodically. Users will be notified of any significan
 
 ## Contact Information
 For privacy-related questions, contact:
-dominic@hawgood.co.uk
+studio@dominichawgood.com
 
 ## LinkedIn API Compliance
 This application complies with LinkedIn's API Terms of Service and data usage requirements.
